@@ -58,7 +58,7 @@
 
 👉 [**Registro básico con Flask**](https://github.com/champagneplease/Register-Basic-with-Flask)
 
-👉 [**Encriptar y desencriptar con Python**](https://github.com/champagneplease/encrypt-decrypt/blob/main/encrypt-decrypt.py)
+👉 [**Encriptar y desencriptar con Python**](https://github.com/champagneplease/encrypt-decrypt)
 
 ### 🐍 Contribuciones
 
