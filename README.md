@@ -9,13 +9,14 @@
 ## 👨‍💻 Sobre mí
 
 - Estudiante de **Diseño y Desarrollo de Software**
-- Me apasiona el **Backend** con `Python` (Flask, Django, FastAPI) y `JavaScript` (Node.js)
+
+- Me gusta el **Backend** con `Python` (Flask, Django, FastAPI) y `JavaScript` (Node.js)
 - Aprendiendo `PostgreSQL` y `Docker`
 - Uso **MacOS**, pero también manejo **Linux (Bash)**
 - Herramientas: `Postman`, `Git`, `GitHub`, `GitLab`
 - No puedo programar sin **Spotify**
-
-<br>
+- No soy muy bueno centrando un `<div>`... pero nunca es tarde para aprender un poco de frontend, je
+  <br>
 
 ---
 
@@ -24,23 +25,24 @@
 ### Lenguajes & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 
 ### Bases de datos
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=MongoDB&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=MongoDB&logoColor=white)
 
 ### Herramientas
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 
@@ -51,6 +53,12 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 
 ---
+
+## Proyectos destacados
+
+👉 [**Registro básico con Flask**](https://github.com/champagneplease/Register-Basic-with-Flask)
+
+👉 [**Encriptar y desencriptar con Python**](https://github.com/champagneplease/encrypt-decrypt/blob/main/encrypt-decrypt.py)
 
 ### 🐍 Contribuciones
 
