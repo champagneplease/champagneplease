@@ -1,10 +1,18 @@
-<h1 align="center"> Hola, soy Nacho Miranda</h1>
-<p align="center">Backend Developer en formación </p>
+<table>
+<tr>
+<td>
 
-<!-- Encabezado con GIF -->
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhnMDh0Yml1ZDNrbXF1eHM1b201Y2locDYwbm12b2hqMWQ5eHVtYiZlcD12MV9faW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/vWst8QUOKAot6MHEZe/giphy.gif" width="300"/>
-</div>
+<h1>Hola, soy Nacho Miranda</h1>
+<p>Backend Developer en formación</p>
+
+</td>
+<td>
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhnMDh0Yml1ZDNrbXF1b201Y2locDYwbm12b2hqMWQ5eHVtYiZlcD12MV9faW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/vWst8QUOKAot6MHEZe/giphy.gif" width="750"/>
+
+</td>
+</tr>
+</table>
 
 ## 👨‍💻 Sobre mí
 
