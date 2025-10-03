@@ -1,16 +1,15 @@
-<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; align-items: center; width: 100%; gap: 20px;">
 
-<div style="flex: 1; min-width: 200px;">
-<h1>Hola, soy Nacho Miranda</h1>
-<p>Backend Developer en formación</p>
+  <div style="flex: 1;">
+    <h1>Hola, soy Nacho Miranda</h1>
+    <p>Backend Developer en formación</p>
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhnMDh0Yml1ZDNrbXF1b201Y2locDYwbm12b2hqMWQ5eHVtYiZlcD12MV9faW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/vWst8QUOKAot6MHEZe/giphy.gif" width="280" alt="Developer GIF"/>
+  </div>
+
 </div>
-
-<div style="flex: 1; min-width: 200px; text-align: center;">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhnMDh0Yml1ZDNrbXF1b201Y2locDYwbm12b2hqMWQ5eHVtYiZlcD12MV9faW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/vWst8QUOKAot6MHEZe/giphy.gif" width="280"/>
-</div>
-
-</div>
-
 ## 👨‍💻 Sobre mí
 
 - Estudiante de **Diseño y Desarrollo de Software**
