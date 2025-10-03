@@ -1,6 +1,6 @@
 <table width="100%">
 <tr>
-<td width="0%" valign="middle">
+<td width="60%" valign="middle">
 
 <h1>Hola, soy Nacho Miranda</h1>
 <p>Backend Developer en formación</p>
